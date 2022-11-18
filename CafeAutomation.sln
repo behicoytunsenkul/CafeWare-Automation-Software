@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeAutomation.WinForms", "CafeAutomation.WinForms\CafeAutomation.WinForms.csproj", "{A24EAD92-3EE1-4CDF-A9DA-2D97DD19C33F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeAutomation.Entities", "CafeAutomation.Entities\CafeAutomation.Entities.csproj", "{F888D31B-BE44-43C8-BF65-689E687EBA14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A24EAD92-3EE1-4CDF-A9DA-2D97DD19C33F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24EAD92-3EE1-4CDF-A9DA-2D97DD19C33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24EAD92-3EE1-4CDF-A9DA-2D97DD19C33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24EAD92-3EE1-4CDF-A9DA-2D97DD19C33F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F888D31B-BE44-43C8-BF65-689E687EBA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F888D31B-BE44-43C8-BF65-689E687EBA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F888D31B-BE44-43C8-BF65-689E687EBA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F888D31B-BE44-43C8-BF65-689E687EBA14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0955F6D-E39D-4D4F-B87D-3A2B97838C0B}
+	EndGlobalSection
+EndGlobal
