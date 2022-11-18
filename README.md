@@ -1,5 +1,5 @@
 # CafeWare-Automation-Software
-CafeWare is the order management system I have developed for businesses.
+CafeWare is the order management system I have developed for businesses. With this system, you will be able to obtain advanced convenience in the management of your business. With CafeWare, you can organize your products, menus, perform user transactions, and make dynamic order payment transactions. In addition, you will be one of the most preferred taste stops thanks to many groundbreaking innovations such as dynamic reporting, new product recommendations based on user movements, analyzes and recommendations for product purchases, which will be presented to you in the virtual environment.
 
 
 ![kg1](https://user-images.githubusercontent.com/114110417/202809336-73182d9e-7366-497f-be8c-0d8ed0dacbe6.png)
